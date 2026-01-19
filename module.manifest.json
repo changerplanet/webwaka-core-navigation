@@ -1,0 +1,14 @@
+{
+  "moduleId": "webwaka-core-navigation",
+  "name": "WebWaka Core Navigation",
+  "version": "0.1.0",
+  "class": "core",
+  "description": "Dynamic menu composition and navigation structure",
+  "capabilities": [],
+  "dependencies": [],
+  "metadata": {
+    "author": "ChangerPlanet",
+    "license": "Proprietary",
+    "repository": "https://github.com/changerplanet/webwaka-core-navigation"
+  }
+}
